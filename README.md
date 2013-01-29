@@ -1,10 +1,6 @@
 # How far can you climb?
 
-<img src="http://rojo.com.mx/branchingup/titlePeek.png" style="border:0;">
-
 As a little bud, Venus always wished for conquering the enormous tower that always stood above her. One day, she decided to climb it and grow beyond any other plant can imagen. Help her in her quest!
-
-<img src="http://rojo.com.mx/branchingup/Screencap.png" style="border:0;">
 
 ##  How To Play?
 
